@@ -10,4 +10,4 @@ Currently included:
 
 Please check out the [git-repository](https://github.com/c-thiel/nextcloud-docker) for further details.
 
-The content of this repository is a slightly adapted version (fixed versions in Dockerfiles) from the official [examples](https://github.com/nextcloud/docker/tree/master/.examples/dockerfiles).
+The content of this repository is a slightly adapted version (pinned major Nextcloud version in Dockerfiles) from the official [examples](https://github.com/nextcloud/docker/tree/master/.examples/dockerfiles).
